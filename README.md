@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-:mortar_board: I majored in Industrial Engineering. 
+:mortar_board: I majored in Industrial System Engineering. 
 
 :computer: I am studying to become a data analyst.
 
@@ -16,8 +16,6 @@ Techs that I've used at least once.
 
 <br>
 
-
 ## Stats
-
 
 ![letsfuture's github stats](https://github-readme-stats.vercel.app/api?username=letsfuture&show_icons=true)
