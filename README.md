@@ -6,6 +6,8 @@
 
 :sparkles: In the future, I want to develop a service by applying data analysis to various industries.
 
+:peach: Haley was here
+
 
 ## Tech Stack
 
